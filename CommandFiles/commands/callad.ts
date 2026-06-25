@@ -1,4 +1,4 @@
-√system install callad.ts // @ts-check
+// @ts-check
 
 /**
  * @type {CassidySpectra.CommandMeta}
