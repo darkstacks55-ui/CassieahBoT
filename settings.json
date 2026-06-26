@@ -70,8 +70,8 @@
   "autoCreateDB": false,
   "MongoConfig": {
     "status": true,
-    "uri": "MONGO_URI",
-    "note": "mongodb+srv://brayanslyde623_db_user:brayan2323@cluster0.nmy3alu.mongodb.net/?appName=Cluster0."
+    "uri": "mongodb+srv://brayanslyde623_db_user:brayan2323@cluster0.nmy3alu.mongodb.net/?appName=Cluster0",
+    "note": "."
   },
   "credentials": {
     "email": "",
