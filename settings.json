@@ -71,7 +71,7 @@
   "MongoConfig": {
     "status": true,
     "uri": "MONGO_URI",
-    "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
+    "note": "mongodb+srv://brayanslyde623_db_user:brayan2323@cluster0.nmy3alu.mongodb.net/?appName=Cluster0."
   },
   "credentials": {
     "email": "",
