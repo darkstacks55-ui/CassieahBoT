@@ -139,7 +139,7 @@ export async function entry({
 
     result += `\n${UNISpectra.arrow} Command details: **${prefix}${commandName} <command>**\n`;
 
-    const resultStr = `🔍 | **Available Commands** 🧰 (${commands.size})\n\n${result}${UNISpectra.charm} Developed by @**Liane Cagara** 🎀`;
+    const resultStr = `🔍 | **Available Commands** 🧰 (${commands.size})\n\n${result}${UNISpectra.charm} Developed by @**ᏟᎡᏆᎷᏚᎾᏁ 余ꜝ** 🥷🪽`;
     return output.reply(resultStr);
   } else if (
     String(args[0]).toLowerCase() === "search" ||
